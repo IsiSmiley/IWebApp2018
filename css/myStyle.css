@@ -6,9 +6,9 @@ html {
 
 body{
     width:95%;
-    background-color: #ABEBC6; /*background=Hintergrund, color=Farbe*/
+    background-color: #DDB6FF; /*background=Hintergrund, color=Farbe*/
     font-size: 20px; /*font=Schrift, size=Grösse*/
-    color: #138D75;
+    color: #C600FF;
     margin:0;
     padding:2.5% 2.5% 0 2.5%; /* 2.5% 2.5% 0 2.5% = oben=2.5% rechts=2.5% unten=0 links=2.5% */
 }
@@ -18,7 +18,7 @@ h1 {
 	color: #0B5345;
 	font-size: 1.5em; /*1.5em = das 1.5-fache der normalen Grösse (Schriftgrösse des Elternelements, hier body)*/
     width: 100%;
-    margin: 2% 0 2% 0; 
+    margin: 2% 0 2% 0;
 }
 .mainTitle{
     border-top: solid 0.25em #0B5345; /*Rahmen = border, top = oben, solid=durchgezogen, 0.25em=Dicke des Rahmens, #0B5345=Farbe des Rahmens*/
@@ -39,7 +39,7 @@ a:hover {
 
 img{
     clear: left;
-    width: 100%; /* 100%=Breite des Elternelements (hier body) */
+    width: 50%; /* 100%=Breite des Elternelements (hier body) */
 }
 
 p{
