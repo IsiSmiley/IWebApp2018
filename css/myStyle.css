@@ -60,3 +60,12 @@ p{
 #navigation a {
     color: #ABEBC6;
 }
+
+#NaviBox {
+	clear: left;
+	float: left;
+	Background-color: #DC00f5;
+	margin: 2% 2% 2% 0;
+	padding: 2%;
+	width: 96%;
+}
