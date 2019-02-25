@@ -15,14 +15,14 @@ body{
 
 h1 {
     clear: left; /* clear=auf neue Zeile, left=linksbündig */
-	color: #0B5345;
+	color: #C600FF;
 	font-size: 1.5em; /*1.5em = das 1.5-fache der normalen Grösse (Schriftgrösse des Elternelements, hier body)*/
     width: 100%;
     margin: 2% 0 2% 0;
 }
 .mainTitle{
-    border-top: solid 0.25em #0B5345; /*Rahmen = border, top = oben, solid=durchgezogen, 0.25em=Dicke des Rahmens, #0B5345=Farbe des Rahmens*/
-	border-bottom: solid 0.25em #0B5345; /*bottom = unten*/
+    border-top: solid 0.25em #C600FF; /*Rahmen = border, top = oben, solid=durchgezogen, 0.25em=Dicke des Rahmens, #0B5345=Farbe des Rahmens*/
+	border-bottom: solid 0.25em #C600FF; /*bottom = unten*/
 }
 h2{
     margin:0; /* 0 = 0 0 0 0 */
@@ -31,7 +31,7 @@ h2{
 
 a {
 	text-decoration: underline; /* text-decoration:underline=unterstrichen */
-    color: #138D75;
+    color: #C600FF;
 }
 a:hover {
 	color: #ffffff;
@@ -64,7 +64,7 @@ p{
 #NaviBox {
 	clear: left;
 	float: left;
-	Background-color: #DC00f5;
+	Background-color: #B0EDFF;
 	margin: 2% 2% 2% 0;
 	padding: 2%;
 	width: 96%;
